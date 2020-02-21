@@ -9,7 +9,7 @@
 	url = ../../minecraft-linux/mcpelauncher-apkinfo.git
 [submodule "mcpelauncher-extract"]
 	path = mcpelauncher-extract
-	url = ../../minecraft-linux/mcpelauncher-extract.git
+	url = ../mcpelauncher-extract.git
 [submodule "google-play-api"]
 	path = google-play-api
 	url = ../Google-Play-API.git
